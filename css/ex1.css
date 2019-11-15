@@ -1,0 +1,22 @@
+h1{
+    color:darkblue;
+    text-align:center;
+    background-color:white;
+}
+body{
+    background-image:url("../images/gazou2.img");
+}
+h2{
+    color:blue;
+    text-align:center;
+    background-color:whitesmoke;
+}
+table{
+    background-color:aqua;
+}
+ol{
+    background-image:url("../images/gazou4.img");
+}
+th{
+    text-align:center;
+}
