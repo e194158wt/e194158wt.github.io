@@ -1,0 +1,28 @@
+h1.bluecolor{
+    text-align:center;
+    background-color:blue;
+    
+}
+
+h1.aquacolor{
+    text-align:center;
+    background-color:aqua;
+    color:blueviolet
+}
+
+h2.whitecolor{
+    text-align:center;
+    background-color:white;
+    color:darkmagenta
+}
+
+h2.redcolor{
+    text-align:center;
+    background-color:red;
+    color:darkgreen
+}
+
+
+body{
+    background-image:url("../images/gazou2.img");
+}
