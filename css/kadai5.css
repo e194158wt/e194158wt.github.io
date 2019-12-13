@@ -1,0 +1,114 @@
+div.top{
+    width:1000px;
+    height:40px;
+    background-color:mediumaquamarine;
+    text-align:left;
+    font-size:20px;
+    font-family:"Impact";
+    margin:auto;
+    margin-bottom:20px;
+}
+
+div.bottom{
+   
+    width:1000px;
+    height:40px;
+    background-color:cadetblue;
+    text-align:right;
+    font-size:20px;
+    margin:auto;
+    margin-top:20px;
+    
+}
+div.right{
+    width:250px;
+    height:320px;
+    background-color:coral;
+    display:inline-block;
+    vertical-align: top;
+    text-align:center;
+    font-family:"Impact";
+    margin:auto;
+    font-size:40px;   
+}
+
+div.left{
+    width:700px;
+    height:320px;
+    background-color:coral;
+    display:inline-block;
+    vertical-align: top;
+    text-align:center;
+    font-family:"Impact";
+    margin-left: 50px;
+    font-siZe:40px;
+    
+}
+
+div.menu1{
+    width:250px;
+    height:100px;
+    background-color:burlywood;
+    text-align:center;
+    font-family:"Impact";
+    margin-bottom: 10px;
+    font-size:25px;
+}
+div.menu2{
+    width:250px;
+    height:100px;
+    background-color:burlywood;
+    text-align:center;
+    font-family:"Impact";
+    margin-bottom: 10px;
+    font-size:25px;
+}
+
+div.menu3{
+    width:250px;
+    height:100px;
+    background-color:burlywood;
+    text-align:center;
+    font-family:"Impact";
+    font-size:25px;
+}
+
+div.gazou{
+    width:700px;
+    height:300px;
+    background-color:burlywood;
+    text-align:center;
+    font-family:"Impact";
+    font-size:50px;
+}
+
+div.bunsho{
+    width:700px;
+    height:20px;
+    background-color:aquamarine;
+    text-align:center;
+    font-family:"Impact";
+    font-size:10px;
+}
+
+
+
+div.midle{
+    width:1000px;
+    height:320px;
+    font-size:0;
+    background-color:azure;
+    margin:auto;
+}
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+
+    
+    
+    
+    
+    
+}
