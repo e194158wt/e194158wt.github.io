@@ -1,0 +1,103 @@
+div.top{
+    width:1000px;
+    height:50px;
+    margin-bottom:20px;
+    background-color:aqua;
+    font-size:25px;
+    font-family:"Impact";
+    text-align:center;
+}
+
+div.midle{
+    width:1000px;
+    height:590px;
+    font-size:0px;
+    background-color:white;
+}
+
+div.right{
+    width:250px;
+    height:590px;
+    background-color:aqua;
+    display:inline-block;
+    vertical-align:top;
+    text-align:center;
+    font-family:"Imapct";
+    font-size:40px;
+}
+
+div.menu1{
+    width:250px;
+    height:60px;
+    background-color:azure;
+    text-align:center;
+    font-family:"Impact";
+    margin-bottom:20px;
+    font-size:20px;
+}
+
+div.menu2{
+    width:250px;
+    height:60px;
+    background-color:azure;
+    text-align:center;
+    font-family:"Impact";
+    margin-bottom:20px;
+    font-size:20px;
+}
+
+div.menu3{
+    width:250px;
+    height:60px;
+    background-color:azure;
+    text-align:center;
+    font-family:"Impact";
+    margin-bottom:20px;
+    font-size:20px;
+}
+
+div.left{
+    width:700px;
+    height:590px;
+    background-color:aqua;
+    display:inline-block;
+    vertical-align:top;
+    text-align:center;
+    font-family:"Impact";
+    font-size:40px;
+    margin-left:50px;
+}
+
+div.gazou1{
+    width:700px;
+    height:250px;
+    background-image:url("../images/gazou7.img");
+    background-repeat:repeat;
+    text-align:center;
+    background-color:azure;
+}
+
+div.text1{
+    width:700px;
+    height:px40px;
+    background-color:aqua;
+    margin-bottom:10px;
+    font-size:20px;
+}
+
+
+
+div.bottom{
+    width:1000px;
+    height:40px;
+    background-color:aqua;
+    margin-top:20px;
+    font-size:20px;
+    font-family:"Impact";
+    text-align:right;
+}
+
+div.wrap{
+    margin:0px auto;
+    width:1000px;
+}
